@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.exe
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.deps.json
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.runtimeconfig.json
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.dll
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.pdb
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.dll
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.pdb
+C:\Users\Sona G\source\repos\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.genruntimeconfig.cache
